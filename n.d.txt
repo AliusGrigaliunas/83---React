@@ -15,5 +15,7 @@ NAUDOJANT PAMOKOS PROJEKTĄ IR TYPESCRIPT:
 
     https://jonnykates.medium.com/automating-colour-contrast-ratios-with-sass-e201f3b52797 - color contrast teorija
 
+    https://www.youtube.com/watch?v=Zz6eOVaaelI
+
     https://www.youtube.com/watch?v=fs923Mu5EXY
     https://codepen.io/Web_Cifar/pen/oNzPXRY
