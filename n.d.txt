@@ -1,12 +1,12 @@
 Perskaityti:
   * https://reactjs.org/docs/hello-world.html +
-  * https://reactjs.org/docs/introducing-jsx.html
-  * https://reactjs.org/docs/rendering-elements.html
-  * https://reactjs.org/docs/components-and-props.html
+  * https://reactjs.org/docs/introducing-jsx.html +
+  * https://reactjs.org/docs/rendering-elements.html +
+  * https://reactjs.org/docs/components-and-props.html +
 
 Peržiūrėti:
   * 0:00:00 - 0:36:00
-    * https://www.youtube.com/watch?v=Ke90Tje7VS0&t=2143s&ab_channel=ProgrammingwithMosh 
+    * https://www.youtube.com/watch?v=Ke90Tje7VS0&t=2143s&ab_channel=ProgrammingwithMosh +
   
 NAUDOJANT PAMOKOS PROJEKTĄ IR TYPESCRIPT:
   Pasidaryti žiūrint:
@@ -14,3 +14,6 @@ NAUDOJANT PAMOKOS PROJEKTĄ IR TYPESCRIPT:
     * https://www.youtube.com/watch?v=0sSYmRImgRY&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=5&ab_channel=TheNetNinja
 
     https://jonnykates.medium.com/automating-colour-contrast-ratios-with-sass-e201f3b52797 - color contrast teorija
+
+    https://www.youtube.com/watch?v=fs923Mu5EXY
+    https://codepen.io/Web_Cifar/pen/oNzPXRY
